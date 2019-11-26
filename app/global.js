@@ -1,0 +1,1 @@
+global.screen = 1;
